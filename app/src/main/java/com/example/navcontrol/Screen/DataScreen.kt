@@ -32,7 +32,7 @@ fun DataScreen(onBack: () -> Unit, message: String?) {
                 }
 
                 Text(
-                    text = "Data",
+                    text = "Test",
                     style = TextStyle(fontSize = 16.sp, fontWeight = FontWeight.Bold)
                 )
             }
