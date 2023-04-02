@@ -32,7 +32,7 @@ fun DataScreen(onBack: () -> Unit, message: String?) {
                 }
 
                 Text(
-                    text = "NAV",
+                    text = "PPP",
                     style = TextStyle(fontSize = 16.sp, fontWeight = FontWeight.Bold)
                 )
             }
