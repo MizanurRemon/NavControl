@@ -23,6 +23,7 @@ fun AppNavigation(navController: NavHostController = rememberNavController()) {
                 },navController)
             }
 
+            //test
             composable(
                 route = Screens.DATA.name + "/{message}",
                 arguments = listOf(navArgument("message") {
